@@ -1,0 +1,76 @@
+.container {
+  position  : relative;
+  background: linear-gradient(to bottom right, #fff824, #ffba24);
+  height    : 516rpx;
+}
+
+.message {
+  top: 60rpx
+}
+
+.home-head {
+  padding-top: 220rpx;
+
+  .headimg {
+    width : 160rpx;
+    height: 160rpx;
+
+    margin-left: 30rpx;
+
+    border-radius: 300rpx;
+    border       : 8rpx solid #fff;
+
+    box-shadow: 7rpx 7rpx 10rpx 7rpx rgba(0, 0, 0, 0.1);
+  }
+
+  .username {
+    font-size : 42rpx;
+    margin-top: 28rpx;
+
+    text-shadow: 5rpx 5rpx 5rpx #fffb;
+  }
+
+  .usergroup {
+    width      : 160rpx;
+    height     : 60rpx;
+    margin-top : 20rpx;
+    margin-left: 0;
+    box-shadow : 10rpx 10rpx 10rpx 10rpx rgba(0, 0, 0, 0.1);
+    border     : 0;
+
+    background: linear-gradient(to bottom right, #e6ff76, #a8ff76);
+
+    line-height: 60rpx;
+
+  }
+
+  .userauth {
+    margin-top: 50rpx;
+  }
+
+
+
+  .userpoint {
+    background : linear-gradient(to bottom right, #fffa9d, #fff875);
+    width      : 180rpx;
+    border     : 0;
+    margin-left: 20rpx;
+    box-shadow : 7rpx 7rpx 10rpx 7rpx rgba(0, 0, 0, 0.1);
+
+
+    display        : flex;
+    flex-wrap      : wrap;
+    justify-content: center;
+    align-items    : center;
+
+    Text {
+      font-size  : 38rpx;
+      font-weight: 500;
+      color      : #454545;
+    }
+  }
+}
+
+.home-body {
+  margin-top: 90rpx;
+}

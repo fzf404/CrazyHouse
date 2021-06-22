@@ -1,0 +1,13 @@
+$at-button-bg                    : #FF971B;
+$at-button-border-color-secondary:#FF971B;
+$at-button-color                 : #CC7815;
+$color-brand                     :#FF971B;
+
+
+@import "~taro-ui/dist/style/index.scss";
+
+.at-button {
+  &--primary {
+    border: none;
+  }
+}

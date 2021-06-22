@@ -1,0 +1,29 @@
+.container {
+  margin-top: 50rpx;
+}
+
+.select-shop {
+  margin-left: 30rpx;
+}
+
+.reserve-button {
+  font-size  : 80rpx;
+  font-weight: 620;
+  border     : 0;
+
+  margin-top: 50rpx;
+
+  height     : 220rpx;
+  line-height: 210rpx;
+
+  /* x偏移量 | y偏移量 | 阴影模糊半径 | 阴影扩散半径 | 阴影颜色 */
+  box-shadow: 7rpx 7rpx 10rpx 7rpx rgba(0, 0, 0, 0.2);
+
+
+  background: linear-gradient(to bottom right, rgba(253, 192, 38, 0.733), #f61b);
+
+}
+
+.remark {
+  margin: 20rpx 40rpx;
+}
