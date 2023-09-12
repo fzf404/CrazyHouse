@@ -4,4 +4,4 @@
 >
 > 后端使用小程序云开发
 
-![CrazyHouse](https://cdn.jsdelivr.net/gh/fzf404/image/CrazyHouse/show.webp)
+![CrazyHouse](https://cdn.jsdelivr.net/gh/fzf404/image/crazyhouse/show.webp)
